@@ -77,7 +77,7 @@ The project primarily uses data from:
 
 The notebook includes data visualization to help understand trends and patterns in the COVID-19 data. One of the key visualizations is a plot showing the relationship between total cases and total recoveries.
 
-![Total Cases vs Total Recovered](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/15804853/cf415142-f4e5-45a8-aae6-b964ec3c722d/Copy-of-Updated-Web-Scaping-11th-Feb-2024.ipynb)
+!![total case vs total recovered](https://ibb.co/XZ8JZc2c)
 
 *This graph illustrates the trend between total COVID-19 cases and total recoveries globally.*  *(based on data scraped on February 11th, 2024)*. The X-axis represents "Total Cases", while the Y-axis represents "Total Recovered."
 
